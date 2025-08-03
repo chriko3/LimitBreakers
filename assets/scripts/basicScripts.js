@@ -45,6 +45,10 @@ function showCardInfo(number) {
     mainCardContainerBig.innerHTML = templateCardBig(card);
 }
 
+function closeInfo(){
+document.getElementById("mainCardContainerBig").classList.add("display-none");
+}
+
 function templateCard(imgSrc, number) {
     return `
     <div onclick="showCardInfo(${number})" class="card-container">
