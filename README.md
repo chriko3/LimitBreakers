@@ -14,4 +14,4 @@ Diese Website zeigt alle Karten übersichtlich an – mit Bildern und den wichti
 
 ## Lizenz
 
-Nur für private und nicht-kommerzielle Nutzung. Kartenmotive gehören den jeweiligen Künstlern.
+Nur für private und nicht-kommerzielle Nutzung. Kartenmotive und Grafiken gehören den jeweiligen Künstlern.
