@@ -28,8 +28,13 @@ function renderCards() {
                 .catch(error => {
                     console.error("Ein oder mehrere Bilder konnten nicht geladen werden:", error);
                 })
+                .finally(() => {
+                    document.getElementById("loading").remove();
+                });
         })
-        .catch(error => console.error("Fehler beim Laden der JSON:", error));
+        .catch(error => {
+            console.error("Fehler beim Laden der JSON:", error);
+        });
 }
 
 
