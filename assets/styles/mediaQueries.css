@@ -1,0 +1,31 @@
+@media (max-width: 1530px) {
+  .main-container-right{
+    width: 100%;
+  }
+}
+
+@media (max-width: 668px) {
+  .header-right{
+    font-size: 16px;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .header-left img{
+    height: 40px;
+  }
+
+  .main-container-right{
+    scale: 80%
+  }
+
+  .main-container{
+    scale: 65%;
+  }
+}
+
+@media (max-height: 830px) {
+  .main-container-right{
+    scale: 80%
+  }
+}

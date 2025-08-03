@@ -1,0 +1,227 @@
+[
+  {
+    "number": 1,
+    "img": "./assets/edition/overdriveOrigins/oo01.jpg",
+    "title": "TOKYO UNIVERSITY DROPOUT - YUNGMON",
+    "story": "Das Mitglied der Ultra Revengers mit den meisten Fehlstunden. Sein Ziel ist es, mit seinem Gesang irgendwann die größten Stadien Neo Tokyos zu füllen und auf dem Weg dorthin so oft zu schwänzen wie möglich.",
+    "rarestate": "Rare",
+    "atk": 1511,
+    "def": 1997
+  },
+  {
+    "number": 2,
+    "img": "./assets/edition/overdriveOrigins/oo02.jpg",
+    "title": "KABUKICHOU DELINQUENT - LYRAN DASZ",
+    "story": "Zusammen mit den Ultra Revengers hat es sich Lyran zur Aufgabe gemacht, die größte Gang Neo Tokyos zu gründen. Bereits 50 Prozent seines Körpers wurden durch modernste Cyberware ersetzt.",
+    "rarestate": "Rare",
+    "atk": 1670,
+    "def": 2063
+  },
+  {
+    "number": 3,
+    "img": "./assets/edition/overdriveOrigins/oo03.jpg",
+    "title": "OVERTHINKER: YUNGMON",
+    "story": "Welche Sorte Arizona nehme ich nur? Durch das extreme Überdenken dieser unmöglich schweren Frage begann Yungmons Kopf zu überhitzen - so lange, bis dieser schließlich Feuer fing. Am Ende kaufte er einfach alle Sorten.",
+    "rarestate": "Rare",
+    "atk": 2017,
+    "def": 1027
+  },
+  {
+    "number": 4,
+    "img": "./assets/edition/overdriveOrigins/oo04.jpg",
+    "title": "STARDUST DASZ",
+    "story": "Eine 100.000 Terabyte große Datei überschwemmte die Cloud, als Lyran sein Herz digitalisierte und anschließend hochlud. Tief verborgen in den Gassen des Internets konnte fortan niemand mehr seinen Gefühlen schaden.",
+    "rarestate": "Rare",
+    "atk": 1670,
+    "def": 2063
+  },
+  {
+    "number": 5,
+    "img": "./assets/edition/overdriveOrigins/oo05.jpg",
+    "title": "FARBLOS - YUNGMON",
+    "story": "心の色は全部消えて来た。君がいないと幸せになれない。 いつか帰ってくれるの?",
+    "rarestate": "Rare",
+    "atk": 165,
+    "def": 71
+  },
+  {
+    "number": 6,
+    "img": "./assets/edition/overdriveOrigins/oo06.jpg",
+    "title": "DUMMER KLEINER PRINZ",
+    "story": "Mit einer ruckartigen Bewegung riss sie das vor Endorphinen orphinen pulsierende Herz des Prinzen entzwei. Eine tiefe Narbe, aus welcher bis heute noch das Blut durch die Gassen Neo Tokyos sickert, blieb zurück.",
+    "rarestate": "Rare",
+    "atk": 246,
+    "def": 123
+  },
+  {
+    "number": 7,
+    "img": "./assets/edition/overdriveOrigins/oo07.jpg",
+    "title": "YAMI YUNGMON",
+    "story": "Als Yungmon das Milleniumspuzzle löste, wurde er von dem Geist des uralten Yami Yungmon durchdrungen. Er erlangte durch seine neu entstandene Karten-Kauf-Sucht die Fähigkeit, blitzschnell in finanzielle Probleme zu geraten.",
+    "rarestate": "Rare",
+    "atk": 1071,
+    "def": 1083
+  },
+  {
+    "number": 8,
+    "img": "./assets/edition/overdriveOrigins/oo08.jpg",
+    "title": "NEUROMANCER: LYRAN",
+    "story": "Kurz davor, die Spitze des Arasaka Towers zu erklimmen, machen sich die tödlichen Folgen des Sandevistans letztendlich bemerkbar. Lyrans finaler Kampf um die Freiheit Neo Tokyos beginnt.",
+    "rarestate": "Rare",
+    "atk": 1012,
+    "def": 2077
+  },
+  {
+    "number": 9,
+    "img": "./assets/edition/overdriveOrigins/oo09.jpg",
+    "title": "VANN LUCID - LAER XITRAM",
+    "story": "Am Abend des 7. Oktobers verschwanden augenblicklich sämtliche Mischen aus den Bars und Clubs Neo Tokyos. Obwohl die Polizei bisher die Identität des Täters immer noch nicht feststellen konnte, spricht die Fahne von Laer Bände.",
+    "rarestate": "Rare",
+    "atk": 1369,
+    "def": 1404
+  },
+  {
+    "number": 10,
+    "img": "./assets/edition/overdriveOrigins/oo10.jpg",
+    "title": "JACK FROST",
+    "story": "Alle Ähnlichkeiten zum gleichnamigen Charakter Jack Frost von Atlus sind reiner Zufall. Yungmon atmete erleichtert aus, als er sich vorstellte, dieser Satz könnte ihn rechtlich irgendwie schützen. Dem war allerdings nicht so.",
+    "rarestate": "Rare",
+    "atk": 1140,
+    "def": 906
+  },
+  {
+    "number": 11,
+    "img": "./assets/edition/overdriveOrigins/oo11.jpg",
+    "title": "EVA - UNIT 001 (KON MODE)",
+    "story": "Eine maschinelle Konstruktion, welche am Dach des größten Hotels Neo Tokyos angebracht wurde. Zu jeder vollen Stunde speit Unit 001 Rauch und Feuer, eine sehr beliebte Touristenattraktion.",
+    "rarestate": "Rare",
+    "atk": 526,
+    "def": 3101
+  },
+  {
+    "number": 12,
+    "img": "./assets/edition/overdriveOrigins/oo12.jpg",
+    "title": "KANEDARO",
+    "story": "Die Jungs bewundern ihn für sein krasses Motorrad, die Frauen lieben ihn für seine zarten Hamsterbacken. Gemeinsam mit den Ultra Revengers versucht dieses Säugetier, den Frieden in Neo-Tokyo zu bewahren.",
+    "rarestate": "Rare",
+    "atk": 86,
+    "def": 1060
+  },
+  {
+    "number": 13,
+    "img": "./assets/edition/overdriveOrigins/oo13.jpg",
+    "title": "ANIKI ANPANMAN",
+    "story": "Einer der Vizekommandanten der Ultra Revengers. Aniki rettet seine Kameraden regelmäßig vor dem Verhungern und achtet sorgfältig auf ihre Ernährung. Leider muss er dafür jedes Mal Teile seines Brotkopfes opfern.",
+    "rarestate": "Rare",
+    "atk": 890,
+    "def": 141
+  },
+  {
+    "number": 14,
+    "img": "./assets/edition/overdriveOrigins/oo14.jpg",
+    "title": "EVA - UNIT 001 (FULLBODY MODE)",
+    "story": "Ein Mecha, welcher durch Fördergelder der Stadt Neo Tokyo einen menschlichen Körper finanziert bekam. Seine Aufgabe ist es, Ultra Rare Merch zu nahen, bis sein Akku versagt.",
+    "rarestate": "Super Rare",
+    "atk": 410,
+    "def": 1995
+  },
+  {
+    "number": 15,
+    "img": "./assets/edition/overdriveOrigins/oo15.jpg",
+    "title": "MONSTER REVOLUTION",
+    "story": "Die Arizona Company beendete ihre Zusammenarbeit mit ihrem treuesten Kunden Yungmon. Folglich gingen sämtliche Bürger Neo Tokyos auf die Straßen, um ihren gefallenen Helden gewaltsam zu rächen.",
+    "rarestate": "Super Rare",
+    "atk": 373,
+    "def": 737
+  },
+  {
+    "number": 16,
+    "img": "./assets/edition/overdriveOrigins/oo16.jpg",
+    "title": "ALLMÄCHTIGE KI: LAIN",
+    "story": "Ein Mädchen, welches Teil des Computer- und Gedankennetzwerks Wired ist. Sie wartet sämtliche Maschinen sowie mechanische Bewohner Neo Tokyos. Ihre tägliche Bildschirmzeit ist äußerst besorgniserregend.",
+    "rarestate": "Super Rare",
+    "atk": 1337,
+    "def": 1337
+  },
+  {
+    "number": 17,
+    "img": "./assets/edition/overdriveOrigins/oo17.jpg",
+    "title": "FIRST IMPACT: LILITH",
+    "story": "Ein nahezu allmächtiges Wesen, welches den First Impact auslöste - eine Katastrophe, in welcher 80 Prozent der Bevölkerung Tokyos ihr Leben ließen.",
+    "rarestate": "Super Rare",
+    "atk": 4253,
+    "def": 663
+  },
+  {
+    "number": 18,
+    "img": "./assets/edition/overdriveOrigins/oo18.jpg",
+    "title": "USAGI UZUMAKI",
+    "story": "Eine Frau, welche vom Spiralen-Fluch befallen ist. Ihre bloße Anwesenheit entfacht it Naturkatastrophen Naturkatastrophen um sie herum. Nur das Licht des Mondes erlaubt es ihr, bei Nacht für wenige Stunden ein normales Leben zu führen.",
+    "rarestate": "Super Rare",
+    "atk": 5253,
+    "def": 10
+  },
+  {
+    "number": 19,
+    "img": "./assets/edition/overdriveOrigins/oo19.jpg",
+    "title": "FFA - LYRAN DASZ & YUNGMON",
+    "story": "Die stickige Luft Neo Tokyos sowie der immens hohe Steuersatz weckten in Yungmon und Lyran den Wunsch, endlich auszubrechen. Ausgerüstet mit den härtesten Designerpieces suchen sie seither weit entfernt ihr Glück.",
+    "rarestate": "Super Rare",
+    "atk": 3690,
+    "def": 670
+  },
+  {
+    "number": 20,
+    "img": "./assets/edition/overdriveOrigins/oo20.jpg",
+    "title": "ULTRA REVENGERS: 369. DIVISION",
+    "story": "Ein unerschütterliches Band verbindet die Herzen eines jeden Mitglieds der Ultra Revengers miteinander. Nicht einmal das Finanzamt wagt es, sich der unermesslichen Macht dieser Gang entgegenzustellen.",
+    "rarestate": "Super Rare",
+    "atk": 4253,
+    "def": 663
+  },
+  {
+    "number": 21,
+    "img": "./assets/edition/overdriveOrigins/oo21.jpg",
+    "title": "YUNGMON: FINAL OVERDRIVE",
+    "story": "(Teil 1) Am 14. Februar 2020 verknüpften sich die Seelen zweier Wesen, we Gesetze auslösten. Yungmon und Lyran Dasz schworen sich, eine T vereinten Kräfte einen Krater in der Geschichte der Menschheit zu kämpfen, versprochen.",
+    "rarestate": "Ultra Rare",
+    "atk": 14020,
+    "def": 0
+  },
+  {
+    "number": 22,
+    "img": "./assets/edition/overdriveOrigins/oo22.jpg",
+    "title": "LYRAN DASZ - FINAL OVERDRIVE",
+    "story": "(Teil 2) lche mit ihren Stimmen eine Energie jenseits aller physikalischen our in sämtlichen Ecken der Welt zu spielen und mithilfe ihrer hinterlassen. Das Tagteam wird auf ewig für seine Träume",
+    "rarestate": "Ultra Rare",
+    "atk": 0,
+    "def": 2020
+  },
+  {
+    "number": 23,
+    "img": "./assets/edition/overdriveOrigins/oo23.jpg",
+    "title": "BLOOD DEVIL: YUNGMON",
+    "story": "(Teil 1) Am 8. Dezember 2023 erhob sich der Blutmond über Neo Tokyo und In Yungmon und Lyran setzte der rote Schleier allerdings verborge Heimat vor dem Untergang zu bewahren. Ausgestattet mit einer m verführerischsten Parfüms der Erde stellen sie sich den endlosen",
+    "rarestate": "Ultra Rare",
+    "atk": 10067,
+    "def": 0
+  },
+  {
+    "number": 24,
+    "img": "./assets/edition/overdriveOrigins/oo24.jpg",
+    "title": "BLOOD DEVIL: LYRAN DASZ",
+    "story": "(Teil 2) verwandelte die Hälfte der Bevölkerung in willenlose Damonen. ne Krafte frei, welche die beiden seither einsetzen, um ihre vsteriösen, unwiderstehlichen Ausstrahlung und den Damonenhorden entgegen",
+    "rarestate": "Ultra Rare",
+    "atk": 0,
+    "def": 10369
+  },
+  {
+    "number": 25,
+    "img": "./assets/edition/overdriveOrigins/oo25.jpg",
+    "title": "シークレット ゴッドカードー",
+    "story": "「レア集まろう オシークレ",
+    "rarestate": "???",
+    "atk": 0,
+    "def": 0
+  }
+]

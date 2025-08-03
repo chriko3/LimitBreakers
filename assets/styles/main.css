@@ -1,0 +1,114 @@
+main {
+    height: 100vh;
+    display: flex;
+    background-image: url('../img/greysky.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container-left {
+    margin: 10px 0px;
+    flex: 1;
+    max-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 40px;
+
+    overflow-y: auto;
+    padding-bottom: 130px;
+}
+
+.main-container-right {    
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-card-big {
+    height: 515px;
+    width: 425px;
+    background-color: rgb(235, 235, 235);
+    border-radius: 20px;
+
+    color: rgb(10, 10, 10);
+    font-weight: 700;
+    font-size: 20px;
+
+    filter: drop-shadow(0px 10px 50px rgb(10, 10, 10));
+}
+
+.main-card-big-img {
+    display: flex;
+    justify-content: center;
+    margin-top: -170px;
+}
+
+.main-card-big-img img {
+    height: 375px;
+    width: 265px;
+    border-radius: 20px;
+}
+
+.main-card-big-name {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 24px !important;
+}
+
+.main-card-big-facts {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+.rare-level {
+    background-color: rgba(77, 18, 91, 0.554);
+    padding: 10px;
+    border-radius: 10px;
+    color: white
+}
+
+.atk-and-def {
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+.atk {
+    background-color: rgb(212, 43, 43);
+    padding: 10px;
+    border-radius: 10px;
+    color: white
+}
+
+.def {
+    background-color: rgb(42, 119, 227);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.main-card-big-story {
+    justify-content: center;
+    text-align: center;
+    margin: 20px 20px;
+    font-weight: 400;
+    font-size: 16px !important;
+}
