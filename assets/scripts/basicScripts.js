@@ -1,20 +1,37 @@
 let pathJsonOO = "./assets/jsons/overdriveOrigins.json";
-
 let savedata = [];
+
 function renderCards() {
     let mainCardContainer = document.getElementById("mainCardContainer");
+
     fetch(pathJsonOO)
         .then(response => response.json())
         .then(data => {
             savedata = data;
-            for (let index = 0; index < data.length; index++) {
-                const card = data[index];
-                mainCardContainer.innerHTML += templateCard(card.img, index);
-            }
+
+            let imagePromises = data.map(card => {
+                return new Promise((resolve, reject) => {
+                    const img = new Image();
+                    img.src = card.img;
+                    img.onload = () => resolve();
+                    img.onerror = () => reject(`Fehler beim Laden von Bild: ${card.img}`);
+                });
+            });
+
+            Promise.all(imagePromises)
+                .then(() => {
+                    for (let index = 0; index < data.length; index++) {
+                        const card = data[index];
+                        mainCardContainer.innerHTML += templateCard(card.img, index);
+                    }
+                })
+                .catch(error => {
+                    console.error("Ein oder mehrere Bilder konnten nicht geladen werden:", error);
+                })
         })
         .catch(error => console.error("Fehler beim Laden der JSON:", error));
-
 }
+
 
 function showCardInfo(number) {
     document.getElementById("mainCardContainerBig").classList.remove("display-none");
